@@ -22,10 +22,6 @@ TypeScript · React/React Native (Expo) · Node/Fastify · Prisma/MySQL · Docke
 SaaS **multi-tenant** de ponta a ponta: front (React/Expo), back (Node), **infra** (Docker/Traefik) e **CI/CD**.  
 Foco em **gestão, educação e esportes**, UX simples e custos baixos via **self-hosting**.
 
-## Em foco agora
-- **Login biométrico facial** offline-first (face-api.js + IndexedDB)
-- **Painéis operacionais** com React/Tailwind e APIs Node/Prisma
-- **Pipelines** de build slim e deploy automatizado em Debian 12
 
 ## Stack
 `TypeScript` · `React` · `React Native (Expo)` · `Next.js` · `Node (Fastify)` · `Prisma/MySQL` · `Docker` · `Traefik` · `Cloudflare` · `Debian 12`
