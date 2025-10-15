@@ -1,43 +1,52 @@
-<!-- Profile README -->
+<!-- Hero -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:06B6D4,100:22D3EE&text=Donizeti%20Andriotta%20Junior&fontColor=ffffff&fontAlignY=40&desc=Full-stack%20SaaS%20Multi-Tenant&descAlignY=65&descSize=18" alt="banner">
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2800&pause=600&color=22D3EE&center=true&vCenter=true&width=600&lines=React+%7C+Node+%7C+.NET+%7C+DevOps+self-host;Apps+Multi-Tenant;UX+simples%2C+deploy+autom%C3%A1tico" alt="typing">
+</p>
 
-# Donizeti Andriotta Junior
+<p align="center">
+  <a href="https://www.linkedin.com/in/junior-andriotta/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/License-MIT-green">
+  <img src="https://img.shields.io/badge/Build-CI%2FCD-blue">
+</p>
 
-**Full-stack • SaaS Multi-Tenant • DevOps self-hosted**
+<!-- Stack icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,expo,nodejs,fastify,prisma,mysql,dotnet,docker,traefik,cloudflare,debian&perline=12" alt="stack">
+</p>
 
-TypeScript · React/React Native (Expo) · Node/Fastify · Prisma/MySQL · Docker/Traefik · Cloudflare · Debian 12
-
-<a href="https://www.linkedin.com/in/junior-andriotta/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
-</a>
-<img alt="Code Style" src="https://img.shields.io/badge/Conventional%20Commits-♟️-informational">
-<img alt="License" src="https://img.shields.io/badge/License-MIT-green">
-
-</div>
-
----
-
-## O que eu construo
-SaaS **multi-tenant** de ponta a ponta: front (React/Expo), back (Node), **infra** (Docker/Traefik) e **CI/CD**.  
-Foco em **gestão, educação e esportes**, UX simples e custos baixos via **self-hosting**.
-
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=2&section=header" alt="divider">
+</p>
 
 ## Stack
 `TypeScript` · `React` · `React Native (Expo)` · `Next.js` · `Node (Fastify)` · `Prisma/MySQL` · `Docker` · `Traefik` · `Cloudflare` · `Debian 12`
 
+## O que eu entrego
+- Infra self-host com Docker/Traefik, CI/CD slim
+- Arquitetura limpa e custo previsível
 
 ## Contato
 - LinkedIn: **/in/junior-andriotta/**
-- Para parcerias e freelas: abra uma **Issue** ou envie DM no LinkedIn.
+- Projetos comerciais: abra uma **Issue** ou chame no LinkedIn
 
----
+<!-- Light/Dark social preview example -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/og-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/og-light.png">
+  <img alt="Social preview" src="assets/og-light.png">
+</picture>
 
 <details>
-<summary><strong>EN</strong></summary>
+<summary><b>EN</b></summary>
 
-**Full-stack dev shipping multi-tenant SaaS** across frontend (React/Expo), backend (Node), and self-hosted DevOps (Docker/Traefik).  
-
-Connect on **LinkedIn** (link above).
+Full-stack dev building multi-tenant SaaS across frontend, backend and self-hosted DevOps.  
+Selected work above. Connect on LinkedIn.
 
 </details>
