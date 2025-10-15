@@ -1,25 +1,51 @@
+<!-- Profile README -->
+
+<div align="center">
+
 # Donizeti Andriotta Junior
 
-Dev full-stack focado em **SaaS para gestão pública**. React/Expo, Node/Fastify/Prisma e .NET. DevOps em Debian + Docker + Traefik.
+**Full-stack • SaaS Multi-Tenant • DevOps self-hosted**
 
-## Em produção
-- **Managee** — Gestão de equipes e escalas. [Demo](https://managee.com.br) • React + Vite + Tailwind
-- **LegisVote** — Presença e votação para câmaras. Face login. [Demo](#) • React + Node + Prisma
-- **MeuPEI** — Geração de PEI para inclusão. [Demo](#) • Next.js + Prisma
+TypeScript · React/React Native (Expo) · Node/Fastify · Prisma/MySQL · Docker/Traefik · Cloudflare · Debian 12
 
-## Tech stack
-TypeScript • React/React Native (Expo) • Node/Fastify • Prisma/MySQL • .NET 8 • Docker/Traefik • Cloudflare • Debian 12
+<a href="https://www.linkedin.com/in/junior-andriotta/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+</a>
+<img alt="Code Style" src="https://img.shields.io/badge/Conventional%20Commits-♟️-informational">
+<img alt="License" src="https://img.shields.io/badge/License-MIT-green">
 
-## Destaques
-- **Login biométrico facial** offline-first com face-api.js + IndexedDB
-- **Infra self-host** com CI/CD e imagens slim
-
-## Contato
-[LinkedIn](#) • [Portfólio](#) • 📧 junior@seu-dominio.com
-
-> EN below
+</div>
 
 ---
 
-### EN
-Full-stack dev building SaaS for public sector. React/Node/.NET. Self-hosted DevOps. See pinned projects and demos above.
+## O que eu construo
+SaaS **multi-tenant** de ponta a ponta: front (React/Expo), back (Node), **infra** (Docker/Traefik) e **CI/CD**.  
+Foco em **gestão, educação e esportes**, UX simples e custos baixos via **self-hosting**.
+
+## Em foco agora
+- **Login biométrico facial** offline-first (face-api.js + IndexedDB)
+- **Painéis operacionais** com React/Tailwind e APIs Node/Prisma
+- **Pipelines** de build slim e deploy automatizado em Debian 12
+
+## Stack
+`TypeScript` · `React` · `React Native (Expo)` · `Next.js` · `Node (Fastify)` · `Prisma/MySQL` · `Docker` · `Traefik` · `Cloudflare` · `Debian 12`
+
+## Padrões de qualidade
+- README claro, **LICENSE (MIT)**, **CHANGELOG**, **CONTRIBUTING**, **SECURITY**
+- CI com lint/test + badges
+- Releases tagueadas e **Conventional Commits**
+
+## Contato
+- LinkedIn: **/in/junior-andriotta/**
+- Para parcerias e freelas: abra uma **Issue** ou envie DM no LinkedIn.
+
+---
+
+<details>
+<summary><strong>EN</strong></summary>
+
+**Full-stack dev shipping multi-tenant SaaS** across frontend (React/Expo), backend (Node), and self-hosted DevOps (Docker/Traefik).  
+
+Connect on **LinkedIn** (link above).
+
+</details>
