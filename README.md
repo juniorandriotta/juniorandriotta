@@ -17,16 +17,13 @@
 
 <!-- Stack icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,expo,nodejs,fastify,prisma,mysql,dotnet,docker,traefik,cloudflare,debian&perline=12" alt="stack">
+  <img src="https://skillicons.dev/icons?i=ts,react,expo,nodejs,prisma,mysql,docker,traefik,cloudflare&perline=12" alt="stack">
 </p>
 
 <!-- Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=2&section=header" alt="divider">
 </p>
-
-## Stack
-`TypeScript` · `React` · `React Native (Expo)` · `Next.js` · `Node (Fastify)` · `Prisma/MySQL` · `Docker` · `Traefik` · `Cloudflare` · `Debian 12`
 
 ## O que eu entrego
 - Infra self-host com Docker/Traefik, CI/CD slim
