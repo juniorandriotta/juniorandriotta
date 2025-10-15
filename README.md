@@ -17,7 +17,7 @@
 
 <!-- Stack icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,expo,nodejs,prisma,mysql,docker,traefik,cloudflare&perline=12" alt="stack">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,prisma,mysql,docker,cloudflare&perline=12" alt="stack">
 </p>
 
 <!-- Divider -->
