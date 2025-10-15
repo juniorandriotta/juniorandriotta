@@ -30,10 +30,6 @@ Foco em **gestão, educação e esportes**, UX simples e custos baixos via **sel
 ## Stack
 `TypeScript` · `React` · `React Native (Expo)` · `Next.js` · `Node (Fastify)` · `Prisma/MySQL` · `Docker` · `Traefik` · `Cloudflare` · `Debian 12`
 
-## Padrões de qualidade
-- README claro, **LICENSE (MIT)**, **CHANGELOG**, **CONTRIBUTING**, **SECURITY**
-- CI com lint/test + badges
-- Releases tagueadas e **Conventional Commits**
 
 ## Contato
 - LinkedIn: **/in/junior-andriotta/**
