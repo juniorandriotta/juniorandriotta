@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2800&pause=600&color=22D3EE&center=true&vCenter=true&width=600&lines=React+%7C+Node+%7C+%7C+DevOps+self-host;Apps+Multi-Tenant;UX+simples%2C+deploy+autom%C3%A1tico" alt="typing">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2800&pause=600&color=22D3EE&center=true&vCenter=true&width=600&lines=React+%7C+Node+%7C+DevOps+self-host;Apps+Multi-Tenant;UX+simples%2C+deploy+autom%C3%A1tico" alt="typing">
 </p>
 
 <p align="center">
