@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:06B6D4,100:8B5CF6&amp;text=Donizeti%20Andriotta%20Junior&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Software%20Architect%20%7C%20Full-Stack%20SaaS%20%26%20Multi-Tenant&amp;descAlignY=65&amp;descSize=18" alt="Name Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:06B6D4,100:8B5CF6&text=Donizeti%20Andriotta%20Junior&fontColor=ffffff&fontAlignY=40&desc=Software%20Architect%20%7C%20Full-Stack%20SaaS%20e%20Multi-Tenant&descAlignY=65&descSize=18" alt="Name Banner">
 </p>
 
 <p align="center">
