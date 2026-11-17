@@ -60,14 +60,15 @@ Meu foco está em **desempenho, manutenção e previsibilidade de custos**, com 
 
 ## GitHub em números
 
-<!-- Serviços externos: a disponibilidade e os dados exibidos dependem do GitHub Readme Stats. -->
+<!-- Cards dinâmicos fornecidos pelo GitHub Profile Summary Cards. -->
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=juniorandriotta&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=00000000&amp;title_color=0891B2&amp;text_color=848D97&amp;icon_color=8B5CF6&amp;hide_border=true&amp;include_all_commits=true&amp;locale=pt-br" alt="Estatísticas públicas do GitHub de juniorandriotta">
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorandriotta&amp;layout=compact&amp;langs_count=6&amp;bg_color=00000000&amp;title_color=0891B2&amp;text_color=848D97&amp;hide_border=true&amp;locale=pt-br" alt="Linguagens presentes nos repositórios públicos de juniorandriotta">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juniorandriotta&amp;theme=tokyonight" alt="Estatísticas públicas do GitHub de juniorandriotta">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juniorandriotta&amp;theme=tokyonight" alt="Distribuição de repositórios públicos por linguagem de juniorandriotta">
 </p>
 
 <p align="center">
-  <sub>As linguagens refletem o código dos repositórios analisados, não o nível de domínio de cada tecnologia.</sub>
+  <sub>O gráfico agrupa os repositórios públicos por linguagem; não representa o nível de domínio de cada tecnologia.</sub><br>
+  <a href="https://github.com/juniorandriotta?tab=repositories">Explorar meus repositórios</a>
 </p>
 
 ---
